@@ -1,0 +1,9 @@
+D:\Work\Projects\Discentem\Discentem\bin\Debug\Discentem.exe.config
+D:\Work\Projects\Discentem\Discentem\bin\Debug\Discentem.exe
+D:\Work\Projects\Discentem\Discentem\bin\Debug\Discentem.pdb
+D:\Work\Projects\Discentem\Discentem\obj\Debug\Discentem.csprojResolveAssemblyReference.cache
+D:\Work\Projects\Discentem\Discentem\obj\Debug\Discentem.exe
+D:\Work\Projects\Discentem\Discentem\obj\Debug\Discentem.pdb
+D:\Work\Projects\Discentem\bin\Debug\Discentem.exe.config
+D:\Work\Projects\Discentem\obj\Debug\Discentem.exe
+D:\Work\Projects\Discentem\obj\Debug\Discentem.pdb
