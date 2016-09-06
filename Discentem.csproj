@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>ProjectEuler.Problem_022</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -43,11 +46,39 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CodeChef\Alphabet.cs" />
+    <Compile Include="CodeChef\Beginner\Alphabet.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-001.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-002.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-003.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-004.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-005.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-006.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-007.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-008.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-009.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-010.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-011.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-012.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-013.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-014.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-015.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-016.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-017.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-018.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-019.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-020.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-021.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-022.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-023.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-024.cs" />
+    <Compile Include="ProjectEuler\001-025\Problem-025.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\names.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
